@@ -1,1 +1,1 @@
-# Maths-Game2
+# School app
